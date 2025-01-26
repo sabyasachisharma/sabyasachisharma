@@ -1,4 +1,4 @@
-# Hey there, I'm Mahad.
+# Hey there, I'm Sabya Sachi.
 
 <p>
   <a href="https://sabyasachisharma.github.io/">Portfolio</a> •

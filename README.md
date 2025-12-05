@@ -8,8 +8,6 @@
 
 
 # 💻 Tech Stack:
-Here’s your updated skills overview using badge-style formatting:
-
 ---
 
 ### **Programming Languages & Frameworks**
